@@ -1,1 +1,1 @@
-![Cover](https://github.com/user-attachments/assets/c55680e0-f561-4f02-8627-bafd84b63c83)
+<img width="2256" height="382" alt="linkedin" src="https://github.com/user-attachments/assets/d7460013-eac9-419d-acd8-c3f30e51e02f" />
