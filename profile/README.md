@@ -9,13 +9,13 @@ educational platforms, and creative technology.
 Each organization within the ecosystem focuses on a specific area while sharing
 the same engineering principles and vision.
 
-| Organization | Focus |
-|---|---|
-| [NitroBrain](https://github.com/NitroBrain) | Core software products and developer tools |
-| [NitroBrainLabs](https://github.com/NitroBrainLabs) | Software engineering education and learning |
-| [NitroScript](https://github.com/NitroScript) | Programming language and language tooling |
-| [Nitro-OS](https://github.com/Nitro-OS) | Developer-focused Linux operating system |
-| [NitroShell](https://github.com/NitroShell) | Modern shell and terminal tooling |
-| [NitroUI](https://github.com/NitroUI) | UI library and design system |
-| [NitroVerse](https://github.com/NitroVerse) | Creative technology and experimental projects |
-| [NitroVim](https://github.com/NitroVim) | Neovim distribution, plugins, and configuration |
+| Organization | Focus | Status |
+|---|---|---|
+| [NitroBrain](https://github.com/NitroBrain) | Core software products and developer tools | Active |
+| [NitroBrainLabs](https://github.com/NitroBrainLabs) | Software engineering education and learning | Active |
+| [NitroScript](https://github.com/NitroScript) | Programming language and language tooling | Development |
+| [Nitro-OS](https://github.com/Nitro-OS) | Developer-focused Linux operating system | Active |
+| [NitroShell](https://github.com/NitroShell) | Modern shell and terminal tooling | Paused |
+| [NitroUI](https://github.com/NitroUI) | UI library and design system | Development |
+| [NitroVerse](https://github.com/NitroVerse) | Creative technology and experimental projects | Paused |
+| [NitroVim](https://github.com/NitroVim) | Neovim distribution, plugins, and configuration | Active |
